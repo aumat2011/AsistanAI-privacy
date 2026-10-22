@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası - Bugün Türkiye</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; max-width: 800px; color: #333; }
+        h1, h2 { color: #1a73e8; }
+    </style>
+</head>
+<body>
+
+    <h1>Gizlilik Politikası</h1>
+    <p><strong>Son Güncelleme:</strong> 15 Mart 2026</p>
+
+    <p><strong>Bugün Türkiye</strong> ("Uygulama") olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu Gizlilik Politikası, Uygulamamızı kullandığınızda verilerinizin nasıl işlendiğini açıklar.</p>
+
+    <h2>1. Toplanan Veriler ve Kullanım Amaçları</h2>
+    <ul>
+        <li><strong>Konum Verisi:</strong> Uygulama, bulunduğunuz bölgeye ait anlık hava durumu, adres bilgisi ve yakınlardaki deprem mesafelerini hesaplamak için cihazınızın konum verisini kullanır. Konum veriniz sunucularımızda **saklanmaz** ve üçüncü taraflarla **paylaşılmaz**.</li>
+        <li><strong>Cihaz ve İnternet Erişimi:</strong> Uygulama; güncel haberler, döviz kurları, hava durumu ve deprem verilerini çekebilmek için internet erişimini kullanır.</li>
+    </ul>
+
+    <h2>2. Reklam ve Kullanıcı Takibi</h2>
+    <p>Uygulamamızda <strong>hiçbir şekilde reklam gösterilmez</strong>, Reklam Kimliği (Advertising ID) veya kullanıcı davranışlarını takip eden üçüncü taraf analitik kütüphaneleri <strong>kullanılmaz</strong>.</p>
+
+    <h2>3. Üçüncü Taraf Servisler</h2>
+    <p>Uygulama, kamuya açık bilgi ve hizmetleri sunabilmek için aşağıdaki güvenilir servislerden veri çekmektedir:</p>
+    <ul>
+        <li>Open-Meteo (Hava Durumu)</li>
+        <li>OpenStreetMap (Harita & Konum Çözümleme)</li>
+        <li>T.C. Merkez Bankası & Truncgil (Piyasa Verileri)</li>
+        <li>Kandilli Rasathanesi & EMSC (Deprem Bilgileri)</li>
+        <li>TRT Haber & NTV (RSS Haber Akışı)</li>
+        <li>Meteoroloji Genel Müdürlüğü (Resmi Uyarılar)</li>
+    </ul>
+
+    <h2>4. Veri Güvenliği ve Saklama</h2>
+    <p>Uygulamamız kişisel veri toplamadığı ve kullanıcı hesabı oluşturmadığı için sunucularımızda saklanan kişisel bir veri bulunmamaktadır.</p>
+
+    <h2>5. İletişim</h2>
+    <p>Gizlilik politikamızla ilgili sorularınız için bizimle iletişime geçebilirsiniz:</p>
+    <p><strong>E-posta:</strong> destek@bugunturkiye.app</p>
+
+</body>
+</html>
