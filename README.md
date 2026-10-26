@@ -1,2 +1,2 @@
 # bugunturkiye-privacy
-Bugün Türkiye uygulaması için gizlilik politikası
+AsistanAI uygulaması için gizlilik politikası
